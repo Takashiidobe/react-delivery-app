@@ -1,0 +1,64 @@
+/* Applies styles to the whole react document */
+body {
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue",
+    Helvetica, Arial, "Lucida Grande", sans-serif;
+  font-size: 62.5%;
+  background-color: #4169e1;
+}
+
+a {
+  font-size: 1.2rem;
+}
+
+li {
+  list-style-type: none;
+}
+
+form {
+  font-size: 1.2rem;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-size: 1.2rem;
+}
+
+p {
+  font-size: 1.2rem;
+}
+
+input {
+  display: inline-block;
+  padding: 9px 12px;
+  margin-right: 10px;
+  padding-top: 7px;
+  margin-bottom: 20px;
+  font-size: 1.2rem;
+  color: black;
+  line-height: 20px;
+}
+
+button {
+  display: inline-block;
+  padding: 9px 12px;
+  padding-top: 7px;
+  margin-bottom: 0;
+  font-size: 14px;
+  line-height: 20px;
+  color: #fff;
+  text-align: center;
+  vertical-align: middle;
+  cursor: pointer;
+  background-color: #428bca;
+  background-image: none !important;
+  border: none;
+  border-color: #357ebd;
+  text-shadow: none;
+  box-shadow: none;
+  transition: all 0.12s linear 0s !important;
+  font: 14px/20px "Helvetica Neue", Helvetica, Arial, sans-serif;
+}

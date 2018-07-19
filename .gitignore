@@ -1,0 +1,12 @@
+# Server side
+
+node_modules/
+config/
+.DS_Store
+
+# Client Side
+client/DS_Store
+client/node_modules/
+client/src/config/
+client/src/experimental/
+client/src/config/

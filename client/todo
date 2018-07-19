@@ -1,0 +1,14 @@
+react-ecommerce
+
+#location-finder
+#integrate search and render based on Algolia places widget
+
+
+#filter by location, price, and size
+
+#render a page with a randomizer (faked) phone number and company info and agent name
+
+#authentication
+#buyers can browse
+#sellers can post
+#use the zillow api to render calls
